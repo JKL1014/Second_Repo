@@ -1,3 +1,7 @@
 from johnny import awesomeness
 
 print 'Hello World'
+
+message = raw_input("How's it going, dude?")
+
+print 'Oh, you're feeling ' + message + '?'
