@@ -1,0 +1,3 @@
+from johnny import awesomeness
+
+print 'Hello World'
